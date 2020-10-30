@@ -8,7 +8,7 @@ module.exports = {
     "debug": false,
     "googleAnalyticsTrackingID": "", // UA-XXXXXXXX-XX
     "host": "https://canvas.place", // the publicly accessible URL of the site
-    "placeTimeout": 60,
+    "placeTimeout": 10,
     'enableChangelogs': true,
     'siteName': 'Place',
     // "raven": "", 
