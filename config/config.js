@@ -2,12 +2,12 @@ module.exports = {
     "secret": "yx5yTW620QNlNle3m7WKsCMOcZKt1Lqj", // <------- CHANGE THIS DONT USE THE DEFAULT YOU'LL GET HACKED AND DIE 100%
     "database": "mongodb://localhost/place",
     "port": 3000,
-    "boardSize": 600, 
+    "boardSize": 10000, 
     "onlyListenLocal": true,
     "trustProxyDepth": 1, // How many levels of proxy to trust for IP
     "debug": false,
     "googleAnalyticsTrackingID": "", // UA-XXXXXXXX-XX
-    "host": "https://place.nush.app", // the publicly accessible URL of the site
+    "host": "https://bigplace.nush.app", // the publicly accessible URL of the site
     "placeTimeout": 10,
     'enableChangelogs': true,
     'siteName': 'NUSH Place',
